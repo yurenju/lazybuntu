@@ -1,3 +1,4 @@
+#labels Featured
 在這個 Ubuntu 8.10 即將釋出的十月，Lazybuntu 也將做例行性的修改與釋出。本頁面訂定了一些新版 lazybuntu 懶人包的一些預計目標。
  * 首先，我們要讓 Lazybuntu 可以在 Ubuntu 8.10 下運行無礙
  * 新增安裝軟體 Ubuntu Tweak
